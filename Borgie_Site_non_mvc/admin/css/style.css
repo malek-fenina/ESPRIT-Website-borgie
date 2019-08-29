@@ -1,0 +1,61 @@
+body{
+	  background:url(white_leather.jpg) fixed;
+}
+#error1{color:red;}
+#error2{color:red;}
+#error3{color:red;}
+#error4{color:red;}
+.navbar {
+	min-height: 33px !important;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.navbar-nav  > li > a, .navbar-brand{
+	padding-top: 6px !important;
+	padding-bottom: 0 !important;
+	height: 33px;
+}
+
+.main-color-bg{
+	background-color: #333333 !important;
+	border-color: #333333 !important;
+	color:white ;
+}
+
+.main-color-bg2{
+	background-color: #333333 !important;
+	border-color: #333333 !important;
+	color:white !important;
+}
+
+.main-color-bg3{
+	background-color: #333333 !important;
+	border-color: #333333 !important;
+	color:white !important;
+}
+
+.dash-box{
+	text-align:center;
+
+}
+/*#header{
+	background:#333333;
+	color:#ffffff;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+#header .create{
+	padding-top: 20px;
+
+}*/
+
+.breadcrumb{
+	background:white;
+	color:#333333;
+}
+
+.breadcrumb a{
+	color: #3333333;
+}
